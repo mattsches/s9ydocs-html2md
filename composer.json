@@ -1,0 +1,17 @@
+{
+    "name": "mattsches/s9ydocs-html2md",
+    "require": {
+        "symfony/console": "~2.6",
+        "ryakad/pandoc-php": "~1.0",
+        "guzzlehttp/guzzle": "~5.0",
+        "symfony/css-selector": "~2.6",
+        "symfony/dom-crawler": "~2.6"
+    },
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Matthias Gutjahr",
+            "email": "mattsches@gmail.com"
+        }
+    ]
+}
